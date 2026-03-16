@@ -170,7 +170,3 @@ The firmware also reduces Wi-Fi TX power and disables Wi-Fi power saving to impr
 - Python networking
 - WAV file generation
 - Debugging hardware/software integration
-
-## License
-
-Add the license of your choice if you plan to publish this publicly.
