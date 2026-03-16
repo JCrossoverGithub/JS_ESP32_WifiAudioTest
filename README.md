@@ -4,7 +4,7 @@ An embedded audio streaming project that turns an **ESP32 + analog microphone** 
 
 The ESP32 samples audio from a **MAX4466 analog microphone**, converts the raw ADC readings into **16-bit PCM mono audio**, groups the samples into small frames, and streams them over **Wi-Fi using UDP** to a computer. A Python receiver script listens for the packets and writes the incoming stream to a **WAV file** for playback and testing.
 
-![Breadboard prototype](images/breadboard-setup.png)
+![Breadboard prototype](breadboard-setup.png)
 
 ## What this project does
 
